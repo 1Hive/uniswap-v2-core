@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .env.sample
+  checksum: eb5503ced9105148b8b3132db6c831f45d5a8754c639568a8e5f3692f0e296d2
+version: ""
